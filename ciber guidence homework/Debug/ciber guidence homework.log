@@ -1,0 +1,9 @@
+﻿  Source.cpp
+d:\cumputer_development project\c\ciber guidence homework\ciber guidence homework\source.cpp(11): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  d:\cumputer_development project\c\ciber guidence homework\ciber guidence homework\source.cpp(11): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\cumputer_development project\c\ciber guidence homework\ciber guidence homework\source.cpp(11): note: the missing variadic argument 2 is required by format string '%s'
+  d:\cumputer_development project\c\ciber guidence homework\ciber guidence homework\source.cpp(11): note: this argument is used as a buffer size
+d:\cumputer_development project\c\ciber guidence homework\ciber guidence homework\source.cpp(15): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  d:\cumputer_development project\c\ciber guidence homework\ciber guidence homework\source.cpp(15): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\cumputer_development project\c\ciber guidence homework\ciber guidence homework\source.cpp(15): note: the missing variadic argument 2 is required by format string '%s'
+  d:\cumputer_development project\c\ciber guidence homework\ciber guidence homework\source.cpp(15): note: this argument is used as a buffer size
